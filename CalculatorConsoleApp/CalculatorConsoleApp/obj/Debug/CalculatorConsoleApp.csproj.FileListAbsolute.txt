@@ -1,0 +1,8 @@
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\sem 2\pemrograman\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
